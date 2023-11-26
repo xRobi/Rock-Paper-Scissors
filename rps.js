@@ -12,7 +12,7 @@ function getComputerChoice () {
             break;
     }
 }
-//console.log(getComputerChoice());
+
 function playRound(computerSelection) {
     let playerSelect = prompt ();
     playerSelect = playerSelect.toLowerCase();
